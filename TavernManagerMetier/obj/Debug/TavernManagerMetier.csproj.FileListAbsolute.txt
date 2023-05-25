@@ -1,0 +1,24 @@
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManagerMetier\bin\Debug\TableManagerMetier.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManagerMetier\bin\Debug\TableManagerMetier.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManagerMetier\obj\Debug\TavernManagerMetier.csproj.AssemblyReference.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManagerMetier\obj\Debug\TavernManagerMetier.csproj.CoreCompileInputs.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManagerMetier\obj\Debug\TableManagerMetier.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManagerMetier\obj\Debug\TableManagerMetier.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.csproj.AssemblyReference.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.csproj.CoreCompileInputs.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManagerMetier\bin\Debug\TavernManagerMetier.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManagerMetier\bin\Debug\TavernManagerMetier.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.pdb
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManagerMetier\bin\Debug\TavernManagerMetier.dll
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManagerMetier\bin\Debug\TavernManagerMetier.pdb
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.csproj.AssemblyReference.cache
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.csproj.CoreCompileInputs.cache
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.dll
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManagerMetier\obj\Debug\TavernManagerMetier.pdb
+C:\Users\clementboutet\Desktop\S2_02\c#\TavernManagerMetier\bin\Debug\TavernManagerMetier.dll
+C:\Users\clementboutet\Desktop\S2_02\c#\TavernManagerMetier\bin\Debug\TavernManagerMetier.pdb
+C:\Users\clementboutet\Desktop\S2_02\c#\TavernManagerMetier\obj\Debug\TavernManagerMetier.csproj.AssemblyReference.cache
+C:\Users\clementboutet\Desktop\S2_02\c#\TavernManagerMetier\obj\Debug\TavernManagerMetier.csproj.CoreCompileInputs.cache
+C:\Users\clementboutet\Desktop\S2_02\c#\TavernManagerMetier\obj\Debug\TavernManagerMetier.dll
+C:\Users\clementboutet\Desktop\S2_02\c#\TavernManagerMetier\obj\Debug\TavernManagerMetier.pdb
