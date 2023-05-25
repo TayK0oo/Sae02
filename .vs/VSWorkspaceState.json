@@ -1,11 +1,4 @@
 {
-  "ExpandedNodes": [
-    "\\TableManager\\TavernManager",
-    "\\TableManager\\TavernManagerMetier",
-    "\\TableManager\\TavernManagerMetier\\Metier",
-    "\\TableManager\\TavernManagerMetier\\Metier\\Algorithmes",
-    "\\TableManager\\TavernManagerMetier\\Metier\\Algorithmes\\Graphes",
-    "\\TableManager\\TavernManager\\Vues"
-  ],
+  "ExpandedNodes": [],
   "PreviewInSolutionExplorer": false
 }
