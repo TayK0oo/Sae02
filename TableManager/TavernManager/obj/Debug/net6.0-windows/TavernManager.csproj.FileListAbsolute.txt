@@ -1,0 +1,112 @@
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\bin\Debug\net6.0-windows\TavernManager.exe
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\bin\Debug\net6.0-windows\TavernManager.deps.json
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\bin\Debug\net6.0-windows\TavernManager.runtimeconfig.json
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\bin\Debug\net6.0-windows\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\bin\Debug\net6.0-windows\TavernManager.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\bin\Debug\net6.0-windows\TableManagerMetier.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\bin\Debug\net6.0-windows\TableManagerMetier.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.csproj.AssemblyReference.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.lref
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\App.baml
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.baml
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.baml
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.g.resources
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfoInputs.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfo.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.csproj.CoreCompileInputs.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.csproj.CopyComplete
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\refint\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\TavernManager.genruntimeconfig.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TableManager\obj\Debug\net6.0-windows\ref\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.exe
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.deps.json
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.runtimeconfig.json
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.AssemblyReference.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.lref
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\App.baml
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.baml
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.baml
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.g.resources
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfoInputs.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfo.cs
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.CoreCompileInputs.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.CopyComplete
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\refint\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.pdb
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.genruntimeconfig.cache
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\obj\Debug\net6.0-windows\ref\TavernManager.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManagerMetier.dll
+C:\Users\MatthieuSIMONET\Desktop\SAE2.02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManagerMetier.pdb
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.exe
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.deps.json
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.runtimeconfig.json
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.dll
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.pdb
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManagerMetier.dll
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManagerMetier.pdb
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.AssemblyReference.cache
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.g.cs
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.g.cs
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\App.g.cs
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.cache
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.lref
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\App.baml
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.baml
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.baml
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.g.resources
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.GeneratedMSBuildEditorConfig.editorconfig
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfoInputs.cache
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfo.cs
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.CoreCompileInputs.cache
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.CopyComplete
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.dll
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\refint\TavernManager.dll
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.pdb
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.genruntimeconfig.cache
+U:\cb588078\Semestre 2\S2_02\TableManager\TavernManager\obj\Debug\net6.0-windows\ref\TavernManager.dll
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.AssemblyReference.cache
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.g.cs
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.g.cs
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.cache
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager_MarkupCompile.lref
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.exe
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.deps.json
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.runtimeconfig.json
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.dll
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManager.pdb
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManagerMetier.dll
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\bin\Debug\net6.0-windows\TavernManagerMetier.pdb
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\App.baml
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetreCreationTaverne.baml
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\Vues\FenetrePrincipale.baml
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.g.resources
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfoInputs.cache
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.AssemblyInfo.cs
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.CoreCompileInputs.cache
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.csproj.CopyComplete
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.dll
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\refint\TavernManager.dll
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.pdb
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\TavernManager.genruntimeconfig.cache
+C:\Users\Tayk0oo\Documents\SAE 02 02\TableManager\TavernManager\obj\Debug\net6.0-windows\ref\TavernManager.dll
